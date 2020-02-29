@@ -2,17 +2,15 @@
 
 ###### 이 프로젝트는 큐 자료구조 응용연습을 위한 프로젝트입니다.
 
-<pre>
-  <code>
-  #include &lt;queue&gt;
+```c++
+  #include <queue>
   
   using namespace std;
   
   int main(){
-      queue&lt;data type&gt; name;
+      queue<data type> name;
   }
-  </code>
-</pre>
+ ```
 
 <img src = "http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/images/big-square.png" width = "20%"></img>
 
